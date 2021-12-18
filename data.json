@@ -1283,8 +1283,8 @@
             "Definition": "Personal Area Network"
         },
         {
-            "Acronym": "PC 1",
-            "Definition": "Personal Computer; 2 Program Counter"
+            "Acronym": "PC",
+            "Definition": "1 Personal Computer; 2 Program Counter"
         },
         {
             "Acronym": "PCL",
@@ -1471,8 +1471,8 @@
             "Definition": "Wide Area Network"
         },
         {
-            "Acronym": "WAP 1",
-            "Definition": "wireless access point; 2 Wireless Application Protocol"
+            "Acronym": "WAP",
+            "Definition": "1 wireless access point; 2 Wireless Application Protocol"
         },
         {
             "Acronym": "Wi-Fi",
