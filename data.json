@@ -857,5 +857,658 @@
             "past_participle": "written",
             "traduction": "écrire"
         }
+    ],
+    "Acronyms": [{
+            "Acronym": "ADSL",
+            "Definition": "Asymmetric Digital Subscriber Line"
+        },
+        {
+            "Acronym": "AI",
+            "Definition": "Artificial Intelligence"
+        },
+        {
+            "Acronym": "AIM",
+            "Definition": "AOL Instant Messenger"
+        },
+        {
+            "Acronym": "ALU",
+            "Definition": "Arithmetic Logic Unit"
+        },
+        {
+            "Acronym": "AMD",
+            "Definition": "Advanced Micro Devices"
+        },
+        {
+            "Acronym": "ASCII",
+            "Definition": "American Standard Code for Information Interchange"
+        },
+        {
+            "Acronym": "AT&T",
+            "Definition": "American Telephone & Telegraph company"
+        },
+        {
+            "Acronym": "ATA",
+            "Definition": "Analogue Telephone Adaptor"
+        },
+        {
+            "Acronym": "ATM",
+            "Definition": "Automated Teller Machine"
+        },
+        {
+            "Acronym": "AVI",
+            "Definition": "Audio Video Interface"
+        },
+        {
+            "Acronym": "BASIC",
+            "Definition": "Beginner's All-purpose Symbolic Instruction Code"
+        },
+        {
+            "Acronym": "BBS",
+            "Definition": "Bulletin Board System"
+        },
+        {
+            "Acronym": "Bcc:",
+            "Definition": "Blind carbon (or courtesy) copy"
+        },
+        {
+            "Acronym": "BIOS",
+            "Definition": "Basic Input/Output System"
+        },
+        {
+            "Acronym": "bit",
+            "Definition": "binary digit"
+        },
+        {
+            "Acronym": "bps",
+            "Definition": "bits per second"
+        },
+        {
+            "Acronym": "CAD",
+            "Definition": "Computer-Aided Design"
+        },
+        {
+            "Acronym": "Cc: ",
+            "Definition": "Carbon (or courtesy) copy"
+        },
+        {
+            "Acronym": "CCD",
+            "Definition": "Charge-Coupled Devices"
+        },
+        {
+            "Acronym": "CD",
+            "Definition": "Compact Disc"
+        },
+        {
+            "Acronym": "cd/m2",
+            "Definition": "Candela per square metre"
+        },
+        {
+            "Acronym": "CD-R",
+            "Definition": "Compact Disc-Recordable"
+        },
+        {
+            "Acronym": "CD-ROM",
+            "Definition": "Compact Disc-Read Only Memory"
+        },
+        {
+            "Acronym": "CD-RW",
+            "Definition": "Compact Disc-Rewritable"
+        },
+        {
+            "Acronym": "CERN",
+            "Definition": "Conseil Europeen pour la Recherche Nuclealre"
+        },
+        {
+            "Acronym": "COBOL",
+            "Definition": "COmmon Business-Oriented Language"
+        },
+        {
+            "Acronym": "CPU",
+            "Definition": "Central Processing Unit"
+        },
+        {
+            "Acronym": "CRT",
+            "Definition": "Cathode Ray Tube"
+        },
+        {
+            "Acronym": "CSS",
+            "Definition": "Cascading Style Sheets"
+        },
+        {
+            "Acronym": "CTP",
+            "Definition": "Computer To Plate"
+        },
+        {
+            "Acronym": "CU",
+            "Definition": "Control Unit"
+        },
+        {
+            "Acronym": "DAB",
+            "Definition": "Digital Audio Broadcasting"
+        },
+        {
+            "Acronym": "DAW",
+            "Definition": "Digital Audio Workstation"
+        },
+        {
+            "Acronym": "DBMS",
+            "Definition": "Database Management System"
+        },
+        {
+            "Acronym": "DDR",
+            "Definition": "Double Data Rate (RAM)"
+        },
+        {
+            "Acronym": "DIMM",
+            "Definition": "Dual In-line Memory Module"
+        },
+        {
+            "Acronym": "DLP",
+            "Definition": "Digital-Light processing"
+        },
+        {
+            "Acronym": "DMB",
+            "Definition": "Digital Multimedia Broadcasting"
+        },
+        {
+            "Acronym": "DNS",
+            "Definition": "Domain Name System"
+        },
+        {
+            "Acronym": "dpi",
+            "Definition": "dots per inch"
+        },
+        {
+            "Acronym": "DTP",
+            "Definition": "Desktop Publishing"
+        },
+        {
+            "Acronym": "DTTV",
+            "Definition": "Digital Terrestrial television"
+        },
+        {
+            "Acronym": "DVB-H",
+            "Definition": "Digital Video Broadcast-Handheld"
+        },
+        {
+            "Acronym": "DVD-/+RW",
+            "Definition": "Digital Versatile Disc-Rewritable"
+        },
+        {
+            "Acronym": "DVD",
+            "Definition": "Digital Versatile Disc or Digital Video Disc"
+        },
+        {
+            "Acronym": "DVD-R",
+            "Definition": "Digital Versatile Disc-Recordable"
+        },
+        {
+            "Acronym": "DVD-ROM",
+            "Definition": "Digital Versatile Disc-Read Only Memory"
+        },
+        {
+            "Acronym": "DVI",
+            "Definition": "Digital Video Interface"
+        },
+        {
+            "Acronym": "EEPROM",
+            "Definition": "Electrically Erasable Programmable ROM"
+        },
+        {
+            "Acronym": "EPS",
+            "Definition": "Encapsulated PostScript"
+        },
+        {
+            "Acronym": "FAQ",
+            "Definition": "Frequently Asked Questions"
+        },
+        {
+            "Acronym": "FORTRAN",
+            "Definition": "FORmula TRANslation"
+        },
+        {
+            "Acronym": "FTP",
+            "Definition": "file Transfer Protocol"
+        },
+        {
+            "Acronym": "GB",
+            "Definition": "Gigabyte (1,024 megabytes)"
+        },
+        {
+            "Acronym": "GHz",
+            "Definition": "Gigahertz"
+        },
+        {
+            "Acronym": "GIF",
+            "Definition": "Graphic Interchange Format"
+        },
+        {
+            "Acronym": "GIS",
+            "Definition": "Geographic Information System"
+        },
+        {
+            "Acronym": "GNU",
+            "Definition": "Gnu's Not UNIX"
+        },
+        {
+            "Acronym": "GPS",
+            "Definition": "Global Positioning System"
+        },
+        {
+            "Acronym": "GSM",
+            "Definition": "Global System for Mobile communication"
+        },
+        {
+            "Acronym": "GUI",
+            "Definition": "Graphical User Interface"
+        },
+        {
+            "Acronym": "HDD",
+            "Definition": "Hard Disk Drive"
+        },
+        {
+            "Acronym": "HD-DVD",
+            "Definition": "High Definition-Digital Versatile Disk"
+        },
+        {
+            "Acronym": "HDTV",
+            "Definition": "High-definition Television"
+        },
+        {
+            "Acronym": "HP",
+            "Definition": "Hewlett-Packard"
+        },
+        {
+            "Acronym": "HTML",
+            "Definition": "Hypertext Markup Language"
+        },
+        {
+            "Acronym": "HTTP",
+            "Definition": "Hypertext Transfer Protocol"
+        },
+        {
+            "Acronym": "Hz",
+            "Definition": "Hertz"
+        },
+        {
+            "Acronym": "I/O",
+            "Definition": "Input/Output"
+        },
+        {
+            "Acronym": "IBM",
+            "Definition": "International Business Machines"
+        },
+        {
+            "Acronym": "ICQ",
+            "Definition": "I Seek You"
+        },
+        {
+            "Acronym": "ICT",
+            "Definition": "Information and Communications Technologies"
+        },
+        {
+            "Acronym": "IM",
+            "Definition": "instant Messaging"
+        },
+        {
+            "Acronym": "IP",
+            "Definition": "Internet Protocol"
+        },
+        {
+            "Acronym": "IR",
+            "Definition": "Instruction Register"
+        },
+        {
+            "Acronym": "IrDA",
+            "Definition": "Infrared Data Association"
+        },
+        {
+            "Acronym": "ISP",
+            "Definition": "Internet Service Provider"
+        },
+        {
+            "Acronym": "IT",
+            "Definition": "Information technology"
+        },
+        {
+            "Acronym": "JP(E)G",
+            "Definition": "Joint Photographic Experts Group"
+        },
+        {
+            "Acronym": "k",
+            "Definition": "1 kilo, used to denote a thousand; 2 1,024 bytes"
+        },
+        {
+            "Acronym": "KB",
+            "Definition": "kilobyte (1,024 bytes)"
+        },
+        {
+            "Acronym": "LAN",
+            "Definition": "Local Area Network"
+        },
+        {
+            "Acronym": "Laser",
+            "Definition": "Light Amplification by Stimulated Emission of Radiation"
+        },
+        {
+            "Acronym": "LCD",
+            "Definition": "Liquid-Crystal Display"
+        },
+        {
+            "Acronym": "LISP",
+            "Definition": "LiSt Processing"
+        },
+        {
+            "Acronym": ".mov",
+            "Definition": "Quicklime movie"
+        },
+        {
+            "Acronym": "Mac",
+            "Definition": "Macintosh computer"
+        },
+        {
+            "Acronym": "MAN",
+            "Definition": "Metropolitan Area Network"
+        },
+        {
+            "Acronym": "MB",
+            "Definition": "Megabyte (1,024 kilobytes)"
+        },
+        {
+            "Acronym": "MHz",
+            "Definition": "Megahertz"
+        },
+        {
+            "Acronym": "MIDI",
+            "Definition": "Musical Instrument Digital Interface"
+        },
+        {
+            "Acronym": "MIPS",
+            "Definition": "Million Instructions Per Second"
+        },
+        {
+            "Acronym": "MMS",
+            "Definition": "Multimedia messages"
+        },
+        {
+            "Acronym": "Modem",
+            "Definition": "MOdulator/DEModulator"
+        },
+        {
+            "Acronym": "MP3",
+            "Definition": "MPEG-1layer-3 Audio"
+        },
+        {
+            "Acronym": "MPEG",
+            "Definition": "Moving Pictures Experts Group"
+        },
+        {
+            "Acronym": "ms",
+            "Definition": "millisecond"
+        },
+        {
+            "Acronym": "NIC",
+            "Definition": "Network Interface Card"
+        },
+        {
+            "Acronym": "NUI",
+            "Definition": "Network User Identifier"
+        },
+        {
+            "Acronym": "OCR",
+            "Definition": "Optical Character Recognition"
+        },
+        {
+            "Acronym": "OLE",
+            "Definition": "Microsoft's Object Linking and Embedding standard"
+        },
+        {
+            "Acronym": "OLED",
+            "Definition": "Organic Light-Emitting Diodes (display)"
+        },
+        {
+            "Acronym": "OOP",
+            "Definition": "Object Oriented Programming"
+        },
+        {
+            "Acronym": "OS",
+            "Definition": "Operating System"
+        },
+        {
+            "Acronym": ".pdf",
+            "Definition": "portable document format"
+        },
+        {
+            "Acronym": "PAN",
+            "Definition": "Personal Area Network"
+        },
+        {
+            "Acronym": "PC 1",
+            "Definition": "Personal Computer; 2 Program Counter"
+        },
+        {
+            "Acronym": "PCL",
+            "Definition": "Printer Control Language"
+        },
+        {
+            "Acronym": "PDA",
+            "Definition": "Personal Digital Assistant"
+        },
+        {
+            "Acronym": "PDL",
+            "Definition": "Page Description Language"
+        },
+        {
+            "Acronym": "PGP",
+            "Definition": "Pretty Good Privacy"
+        },
+        {
+            "Acronym": "PIN",
+            "Definition": "Personal Identification Number"
+        },
+        {
+            "Acronym": "pixel",
+            "Definition": "picture element"
+        },
+        {
+            "Acronym": "PNG",
+            "Definition": "portable network graphic"
+        },
+        {
+            "Acronym": "ppm",
+            "Definition": "pages per minute"
+        },
+        {
+            "Acronym": "PPP",
+            "Definition": "Point to Point Protocol"
+        },
+        {
+            "Acronym": ".ra",
+            "Definition": "ReaIAudio file"
+        },
+        {
+            "Acronym": "RAM",
+            "Definition": "Random Access Memory"
+        },
+        {
+            "Acronym": "RGB",
+            "Definition": "Red, Green, Blue"
+        },
+        {
+            "Acronym": "RFID",
+            "Definition": "Radio-Frequency identification"
+        },
+        {
+            "Acronym": "RIM",
+            "Definition": "Research In Motion"
+        },
+        {
+            "Acronym": "RIP",
+            "Definition": "Raster Image Processor"
+        },
+        {
+            "Acronym": "RISC",
+            "Definition": "Reduced Instruction Set Computer"
+        },
+        {
+            "Acronym": "ROM",
+            "Definition": "Read Only Memory"
+        },
+        {
+            "Acronym": "rpm",
+            "Definition": "revolutions per minute"
+        },
+        {
+            "Acronym": "RSI",
+            "Definition": "repetitive strain injury"
+        },
+        {
+            "Acronym": "RSS",
+            "Definition": "Really Simple Syndication or Rich Site Summary"
+        },
+        {
+            "Acronym": "SDRAM",
+            "Definition": "Synchronous Dynamic Random Access Memory"
+        },
+        {
+            "Acronym": "SIM (card)",
+            "Definition": "Subscriber Identity Module"
+        },
+        {
+            "Acronym": "SMS",
+            "Definition": "Short Message Service"
+        },
+        {
+            "Acronym": "SMTP",
+            "Definition": "Simple Mail Transfer Protocol"
+        },
+        {
+            "Acronym": "SQL",
+            "Definition": "Structured Query Language"
+        },
+        {
+            "Acronym": "SSL",
+            "Definition": "Secure Sockets Layer"
+        },
+        {
+            "Acronym": "SXGA",
+            "Definition": "Super XGA (Extended Graphics Array)"
+        },
+        {
+            "Acronym": "TAN",
+            "Definition": "Transaction Authorization Number"
+        },
+        {
+            "Acronym": "TB",
+            "Definition": "Terabyte (1,024 gigabytes)"
+        },
+        {
+            "Acronym": "TCP/IP",
+            "Definition": "Transmission Control Protocol / Internet Protocol"
+        },
+        {
+            "Acronym": "TFT",
+            "Definition": "Thin Film Transistor (display)"
+        },
+        {
+            "Acronym": "TIFF",
+            "Definition": "Tagged Image File Format"
+        },
+        {
+            "Acronym": "UMTS",
+            "Definition": "Universal Mobile Telecommunications System"
+        },
+        {
+            "Acronym": "URL",
+            "Definition": "Uniform Resource Locator"
+        },
+        {
+            "Acronym": "USB",
+            "Definition": "Universal Serial Bus"
+        },
+        {
+            "Acronym": "VAT",
+            "Definition": "Value Added Tax"
+        },
+        {
+            "Acronym": "VCR",
+            "Definition": "Videocassette Recorder"
+        },
+        {
+            "Acronym": "VDU",
+            "Definition": "Visual Display Unit"
+        },
+        {
+            "Acronym": "VGA",
+            "Definition": "Video Graphics Adapter"
+        },
+        {
+            "Acronym": "VoiceXML",
+            "Definition": "Voice Extensible Mark Language"
+        },
+        {
+            "Acronym": "VoIP",
+            "Definition": "Voice over Internet Protocol"
+        },
+        {
+            "Acronym": "VRML",
+            "Definition": "Virtual Reality Modelling (c Markup) Language"
+        },
+        {
+            "Acronym": ".wav",
+            "Definition": "Windows wave audio file"
+        },
+        {
+            "Acronym": "W3",
+            "Definition": "See Web in Glossary"
+        },
+        {
+            "Acronym": "WAI",
+            "Definition": "Web Accessibility Initiative"
+        },
+        {
+            "Acronym": "WAN",
+            "Definition": "Wide Area Network"
+        },
+        {
+            "Acronym": "WAP 1",
+            "Definition": "wireless access point; 2 Wireless Application Protocol"
+        },
+        {
+            "Acronym": "Wi-Fi",
+            "Definition": "Wireless Fidelity"
+        },
+        {
+            "Acronym": "WIMAX",
+            "Definition": "Worldwide Interoperable for Microwave Access"
+        },
+        {
+            "Acronym": "WIMP",
+            "Definition": "Window, Icon, Menu (or mouse) and Pointer"
+        },
+        {
+            "Acronym": "WP",
+            "Definition": "Word Processing"
+        },
+        {
+            "Acronym": "WWW",
+            "Definition": "World Wide Web"
+        },
+        {
+            "Acronym": "WYSIWYG",
+            "Definition": "What You See Is What You Get"
+        },
+        {
+            "Acronym": "XGA",
+            "Definition": "Extended Graphics Array"
+        },
+        {
+            "Acronym": "XML",
+            "Definition": "Extensible Markup Language"
+        },
+        {
+            "Acronym": "WXGA",
+            "Definition": "Wide XGA (Extended Graphics Array)"
+        }
     ]
 }
