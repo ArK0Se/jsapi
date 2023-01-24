@@ -1,0 +1,100 @@
+{
+    "Acronyms": [
+        {
+            "Acronym": "GPU",
+            "Definition": "Graphics Processing Unit"
+        },
+        {
+            "Acronym": "CPU",
+            "Definition": "Central Processing Unit"
+        },
+        {
+            "Acronym": "ALU",
+            "Definition": "Arithmetic Logic Unit"
+        },
+        {
+            "Acronym": "CU",
+            "Definition": "Control Unit"
+        },
+        {
+            "Acronym": "RAM",
+            "Definition": "Random Access Memory"
+        },
+        {
+            "Acronym": "ROM",
+            "Definition": "Read Only Memory"
+        },
+        {
+            "Acronym": "SIMM",
+            "Definition": "Single In-line memory module"
+        },
+        {
+            "Acronym": "DIMM",
+            "Definition": "Dual In-line memory module"
+        },
+        {
+            "Acronym": "RSS",
+            "Definition": "Really Simple Syndication"
+        },
+        {
+            "Acronym": "RDF Site Summary",
+            "Definition": "Resource Description and Framework Site Summary"
+        },
+        {
+            "Acronym": "URL",
+            "Definition": "Uniform Resource Locator"
+        },
+        {
+            "Acronym": "HTTP",
+            "Definition": "Hypertext Transfer Protocol"
+        },
+        {
+            "Acronym": "WWW",
+            "Definition": "World Wide Web"
+        },
+        {
+            "Acronym": "FTP",
+            "Definition": "File Transfer Protocol"
+        },
+        {
+            "Acronym": "TAN",
+            "Definition": "Transaction Authorization Number"
+        },
+        {
+            "Acronym": "TCP/IP",
+            "Definition": "Transmission Control Protocol / Internet Protocol"
+        },
+        {
+            "Acronym": "VAT",
+            "Definition": "Value Added Tax"
+        },
+        {
+            "Acronym": "DBMS",
+            "Definition": "Database Management System"
+        },
+        {
+            "Acronym": "UMTS",
+            "Definition": "Universal Mobile Telecommunications System"
+        },
+        {
+            "Acronym": "OS",
+            "Definition": "Operating System"
+        },
+        {
+            "Acronym": "GUI",
+            "Definition": "Graphical User Interface"
+        },
+        {
+            "Acronym": "WIMP",
+            "Definition": "Windows Icons Menus Pointer"
+        },
+        {
+            "Acronym": "RIM",
+            "Definition": "Research In Motion"
+        },
+        {
+            "Acronym": "WP",
+            "Definition": "Word Processing"
+        }
+    ]
+}
